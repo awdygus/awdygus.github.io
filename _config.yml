@@ -1,4 +1,4 @@
-text_skin: default  # Change "default" to another color scheme if you want (e.g., "forest", "ocean").
+text_skin: forest  # Change "default" to another color scheme if you want (e.g., "forest", "ocean").
 highlight_theme: default  # Leave this or choose another highlight theme for code blocks.
 
 url: https://awdygus.github.io  # Set your website URL.
